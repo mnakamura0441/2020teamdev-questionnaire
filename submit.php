@@ -58,6 +58,10 @@ $otoiawase = $_POST['otoiawase'];
 <body>
 
   <p>問い合わせが完了しました。担当より折り返しご連絡させていただきます。</p>
+  <p></p>
+  <p>
+    <a href="https://project02-m3.lolipop.io/">TOPに戻る</a>
+  </p>
 
 </body>
 
